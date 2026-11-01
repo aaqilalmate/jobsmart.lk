@@ -1,0 +1,7 @@
+{
+  "$schema": "node_modules/wrangler/config-schema.json",
+  "name": "jobsmart-lk",
+  "compatibility_date": "2026-04-01",
+  "compatibility_flags": ["nodejs_compat"],
+  "vars": { "APP_URL": "https://jobsmart.lk", "NODE_ENV": "production" }
+}

@@ -1,0 +1,6 @@
+{
+  "name": "Jobsmart.lk - Sri Lankan Job Portal & Advertising Platform",
+  "description": "Sri Lanka's premier job vacancy portal and recruitment advertising platform. Discover verified job opportunities across Sri Lanka and advertise vacancies with free poster design.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
